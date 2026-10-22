@@ -1,35 +1,43 @@
-Astronomy 101 — Computational Astrophysics Portfolio
+Astronomy 101 | Computational Astrophysics Portfolio
 
 Selected computational and observational astronomy projects completed through Astronomy 101, organized by Equinox, IIT Guwahati.
 
-Projects
+Featured Projects
 
-1. Solar Flare Classification
+1. Exoplanet Detection Using Machine Learning
 
-Machine-learning classification of solar active-region observations for identifying M5+ solar flare events.
+Binary classification of astronomical observations using machine-learning methods.
 
-Methods: Exploratory data analysis, class-imbalance handling, feature engineering, model comparison, and classification metrics.
+Achievement: 5th place on the final private leaderboard, with a score of 1.00000.
 
-"View project" (./solar-flare-classification/)
+"View the Kaggle competition" (https://www.kaggle.com/competitions/exoplanet-detection-challenge/)
 
-2. Exoplanet Detection
+2. Solar Flare Classification
 
-Binary classification of astronomical observations to identify stars with detected exoplanets.
+Machine-learning analysis of solar active-region magnetic features to classify M5+ solar flare events.
 
-Achievement: 5th place on the final private leaderboard, with a score of 1.00000 in the Exoplanet Detection Challenge hosted by Equinox.
+Methods: Exploratory data analysis, feature engineering, class-imbalance handling, model comparison, and classification metrics.
 
-"Competition page" (https://www.kaggle.com/competitions/exoplanet-detection-challenge/)
+"View the project" (./solar-flare-classification/)
 
 3. Andromeda Galaxy (M31) Image Processing
 
-Astronomical image-processing workflow for the Andromeda Galaxy, including image calibration, stacking, background extraction, deconvolution, and final image enhancement.
+Astronomical image processing involving calibration, stacking, background extraction, deconvolution, and image enhancement.
 
-The final image and project report will be added to this repository.
+"View the project" (./andromeda-galaxy/)
 
-Background
+Skills Demonstrated
 
-These projects were completed as part of Astronomy 101, an astronomy course and challenge organized by Equinox, IIT Guwahati.
+- Python-based scientific computing
+- Data analysis and visualisation
+- Machine-learning model evaluation
+- Astronomical image processing
+- Computational approaches to astronomical problems
 
-Reproducibility and Attribution
+About
 
-Project notebooks, methods, and references will be documented as the repository is finalized. Dataset sources and usage permissions will be identified before public release..
+This repository documents selected coursework and projects from Astronomy 101. Project descriptions distinguish course work and competition results from independent research.
+
+Future Work
+
+Planned extensions include numerical modelling of stellar structure, gravitational dynamics, and cosmological evolution.
