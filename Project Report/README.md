@@ -47,7 +47,7 @@ The workflow includes:
 
 Report File
 
-The complete report is available as ""Combined Astro Report.pdf"" (./Combined%20Astro%20Report.pdf). It contains theoretical responses, computational analysis, processing screenshots, and the final M31 image.
+The complete report is available as [Combined Astro Report.pdf](./Combined%20Astro%20Report.pdf). It contains theoretical responses, computational analysis, processing screenshots, and the final M31 image.
 
 Context
 
