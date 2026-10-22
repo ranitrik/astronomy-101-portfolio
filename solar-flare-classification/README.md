@@ -14,6 +14,5 @@ Methodology
 - Comparison of tree-based classifiers
 - Evaluation using precision, recall, F1-score, and ROC-AUC
 
-Project Status
-
-Portfolio documentation in progress. Dataset attribution, reproducibility, and methodology are being reviewed before public release.
+## Limitations
+The project explores class imbalance, feature engineering, and model comparison. The reported results should be interpreted in the context of the dataset and evaluation procedure documented in the notebook.
