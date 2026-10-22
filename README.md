@@ -18,13 +18,13 @@ Machine-learning analysis of solar active-region magnetic features to classify M
 
 Methods: Exploratory data analysis, feature engineering, class-imbalance handling, model comparison, and classification metrics.
 
-"View the project" (./solar-flare-classification/)
+[View the project](./solar-flare-classification/)
 
 3. Andromeda Galaxy (M31) Image Processing
 
 Astronomical image processing involving calibration, stacking, background extraction, deconvolution, and image enhancement.
 
-"View the project" (./andromeda-galaxy/)
+[View the project](./andromeda-galaxy/)
 
 Skills Demonstrated
 
@@ -46,4 +46,4 @@ Combined Project Report
 
 The full report covers the theoretical solar-flare module, computational flare-classification project, and observational M31 image-processing workflow.
 
-"Read the report and documentation" (./Project%20Report/)
+[Read the report and documentation](./Project%20Report/)
