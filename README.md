@@ -41,3 +41,9 @@ This repository documents selected coursework and projects from Astronomy 101. P
 Future Work
 
 Planned extensions include numerical modelling of stellar structure, gravitational dynamics, and cosmological evolution.
+
+Combined Project Report
+
+The full report covers the theoretical solar-flare module, computational flare-classification project, and observational M31 image-processing workflow.
+
+"Read the report and documentation" (./Project%20Report/)
