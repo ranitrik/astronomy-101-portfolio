@@ -1,10 +1,10 @@
 Astronomy 101 — Combined Project Report
 
-This report documents my theoretical, computational, and observational work completed as part of Astronomy 101, organized by Equinox, IIT Guwahati.
+This report documents theoretical, computational, and observational work completed as part of Astronomy 101, organized by Equinox, IIT Guwahati.
 
 1. Theoretical Module: Solar Flare Mechanics
 
-A set of written responses exploring the physical mechanisms behind solar flares and the stability of solar magnetic structures.
+Written responses exploring the physical mechanisms behind solar flares and the stability of solar magnetic structures.
 
 Topics include:
 
@@ -15,7 +15,7 @@ Topics include:
 - Plasma beta and magnetic-field dominance
 - Magnetic indicators of flare activity and the challenges of flare prediction
 
-The responses use physical reasoning and everyday analogies to explain the underlying concepts in my own words.
+The responses explain the underlying concepts using physical reasoning and analogies.
 
 2. Computational Module: The M5 Flare Problem
 
@@ -25,10 +25,12 @@ Topics include:
 
 - Exploratory data analysis and class imbalance
 - Physics-motivated feature engineering
-- SMOTE and model training
+- Class-imbalance handling using SMOTE
 - Comparison of Decision Tree, Random Forest, AdaBoost, Gradient Boosting, and XGBoost
 - Evaluation using precision, recall, F1-score, and ROC-AUC
 - Interpretation of model limitations and flare-prediction challenges
+
+The results highlight the difficulty of detecting rare, high-impact flare events. The selected Decision Tree achieved a recall of 0.2165 in the notebook's reported test-set evaluation.
 
 3. Observational Module: The Galactic Neighbour
 
@@ -43,10 +45,10 @@ The workflow includes:
 - Chrominance noise mitigation using LAB colour space in GIMP
 - Analysis of residual artifacts in the final image
 
-Report
+Report File
 
-See "astronomy101_project_report.pdf" for the complete report, including theoretical answers, computational analysis, processing screenshots, and the final M31 image.
+The complete report is available as ""Combined Astro Report.pdf"" (./Combined%20Astro%20Report.pdf). It contains theoretical responses, computational analysis, processing screenshots, and the final M31 image.
 
 Context
 
-This document records coursework and project work completed during Astronomy 101. It is presented as evidence of learning and practical experience, not as a claim of independent research publication.
+This report documents coursework and practical experience completed during Astronomy 101. It is presented as evidence of learning and project work, not as a claim of independent research publication.
